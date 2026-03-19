@@ -36,7 +36,7 @@ INNER JOIN • Multi-table JOIN • Aliases • WHERE • ORDER BY • GROUP BY 
 └── README.md
 
 ## 👨‍💻 Authhor
-Raja Kumar Sahni
+MONU KUMAR
 CSE | BPMCE 🚀
 
 
